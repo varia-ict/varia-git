@@ -23,7 +23,7 @@ The branch names and their dependencies should be like this:
 
 * Everytime you create a new branch, add one file to the branch which is located at the root level of this repository. The name of the file should be the branch name.
 
-* Also add readme.md file to the first branch you add (whose name is equal to your github username). Put all the commands you used in the command line in this exercise to that file. The commands should be in the order you used them in. 
+* Also add readme.md file to your develop branch. That branch should also be the default branch in GitHub. Put all the commands you used in the command line in this exercise to that file. The commands should be in the order you used them in. 
 
 The branch names and their dependencies should be like this:
 
