@@ -17,6 +17,8 @@ The branch names and their dependencies should be like this:
             - exercise_3
                 - fixes_to_exercise_3
 
+<b>You should have added 5 branches and 6 files in total in this exercise.</b>
+
 ## Exercise 2:
 
 * You should create your own repository and add a bunch of branches to it. 
@@ -40,7 +42,9 @@ The branch names and their dependencies should be like this:
                 - bug_fixes_to_fancy_new_feature
             - not_so_fancy_new_feature	
 
-After you have done this invite to other students to the repository and ask them to add their own branches to your repo.
+<b>You should have added 8 branches and 9 files in total in this exercise.</b>
+
+After you have done this, invite two other students and the teacher to the repository. Ask the students to add their own branches to your repo.
 
     develop
         - $students_github_account
