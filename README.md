@@ -1,10 +1,18 @@
 # varia-git
 
+## Setup
+
+    git clone https://github.com/varia-ict/varia-git.git
+ 
+    git checkout -b student/$YOUR_GITHUB_ACCOUNT
+
+    git push --set-upstream student/$YOUR_GITHUB_ACCOUNT
+
 ## Exercise 1:
 
 * You should add a bunch of branches to this repository.
 
-* Everytime you create a new branch, add one file to the branch which is located at the root level of this repository. The name of the file should be the branch name.
+* Everytime you create a new branch, add one file to the branch which is located at the root level of this repository. The name of the file should be the same as the branch name.
 
 * Also add readme.md file to the first branch you add (whose name is equal to your github username). Put all the commands you used in the command line in this exercise to that file. The commands should be in the order you used them in. 
 
@@ -12,10 +20,10 @@ The branch names and their dependencies should be like this:
 
     develop 
         - $your_github_account 
-            - exercise_1
-            - exercise_2
-            - exercise_3
-                - fixes_to_exercise_3
+            - $your_github_account_exercise_1
+            - $your_github_account_exercise_2
+            - $your_github_account_exercise_3
+                - $your_github_account_fixes_to_exercise_3
 
 <b>You should have added 5 branches and 6 files in total in this exercise.</b>
 
@@ -23,7 +31,7 @@ The branch names and their dependencies should be like this:
 
 * You should create your own repository and add a bunch of branches to it. 
 
-* Everytime you create a new branch, add one file to the branch which is located at the root level of this repository. The name of the file should be the branch name.
+* Everytime you create a new branch, add one file to the branch which is located at the root level of this repository. The name of the file should be the same as the branch name.
 
 * Also add readme.md file to your develop branch. That branch should also be the default branch in GitHub. Put all the commands you used in the command line in this exercise to that file. The commands should be in the order you used them in. 
 
