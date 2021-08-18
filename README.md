@@ -8,7 +8,7 @@
 
     git push --set-upstream student/$YOUR_GITHUB_ACCOUNT
 
-## Exercise 1:
+## Exercise 1:.
 
 * You should add a bunch of branches to this repository.
 
