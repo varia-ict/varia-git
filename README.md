@@ -27,7 +27,7 @@ The branch names and their dependencies should be like this:
 
 <b>You should have added 5 branches and 6 files in total in this exercise.</b>
 
-## Exercise 2:.
+## Exercise 2:
 
 * You should create your own repository and add a bunch of branches to it. 
 
